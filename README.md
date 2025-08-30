@@ -35,14 +35,14 @@ MNIST_Classifier/
 ├── README.md                 # This file
 ├── MNIST_Classifier.ipynb    # Main Jupyter notebook with implementation
 ├── requirements.txt          # Python dependencies
-├── data/                    # Dataset storage (auto-created)
-│   └── FashionMNIST/       # Fashion MNIST dataset files
-│       ├── raw/            # Raw dataset files
-│       │   ├── train-images-idx3-ubyte
-│       │   ├── train-labels-idx1-ubyte
-│       │   ├── t10k-images-idx3-ubyte
-│       │   └── t10k-labels-idx1-ubyte
-│       └── processed/      # Processed dataset files
+└── data/                    # Dataset storage (auto-created)
+    └── FashionMNIST/       # Fashion MNIST dataset files
+        ├── raw/            # Raw dataset files
+        │   ├── train-images-idx3-ubyte
+        │   ├── train-labels-idx1-ubyte
+        │   ├── t10k-images-idx3-ubyte
+        │   └── t10k-labels-idx1-ubyte
+        └── processed/      # Processed dataset files
 ```
 
 ## Installation
