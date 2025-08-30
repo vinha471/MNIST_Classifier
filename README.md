@@ -43,9 +43,6 @@ MNIST_Classifier/
 │       │   ├── t10k-images-idx3-ubyte
 │       │   └── t10k-labels-idx1-ubyte
 │       └── processed/      # Processed dataset files
-├── examples/                # Example outputs and visualizations
-├── tests/                   # Unit tests for core functions
-└── docs/                    # Additional documentation
 ```
 
 ## Installation
